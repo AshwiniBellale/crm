@@ -1,0 +1,11 @@
+AttributeAllImages
+
+img [alt='Grocery']
+img[alt="Mobiles"]
+img[alt="Fashion"]
+img[alt="Electronics"]
+img[alt="home"]
+img[alt="Appliances"]
+img[alt="Travel"]
+img[alt="Beauty,Toy & More"]
+img[alt="Two Wheelers"]
