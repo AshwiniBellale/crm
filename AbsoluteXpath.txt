@@ -1,0 +1,42 @@
+XpathImages & Text
+
+
+
+
+2.Mobile & Tabletes:-
+			html/body/div/div/div[2]/div/div/div[2]/a/div[1]/img....image
+			html/body/div/div/div[2]/div/div/div[2]/a/div[2]....text
+
+3.Electronics:-
+		html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div/img....image
+		html/body/div/div/div[2]/div/div/div[3]/a/div[2]/div........text
+
+4.Tv & Appliances:-
+			html/body/div/div/div[2]/div/div/div[4]/a/div[1]/div/img....image
+			html/body/div/div/div[2]/div/div/div[4]/a/div[2]/div.....text
+
+5.Fashion:-
+	html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div/img....image
+	html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div...text
+
+6.Beauty:-
+	html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img....image
+	html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div....text
+
+7.Home & Furniture:-
+			html/body/div/div/div[2]/div[1]/div/div[7]/a/div[1]/img.....image
+			html/body/div/div/div[2]/div[1]/div/div[7]/a/div[1]/div[2]....text
+
+8.Flights:-
+	html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div/img....image
+	html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div....text
+
+9.Grocery:-
+	html/body/div/div/div[2]/div/div/div[9]/a/div[1]/div/img....image
+	html/body/div/div/div[2]/div/div/div[9]/a/div[1]/div....text
+
+
+
+
+
+                                                                 
